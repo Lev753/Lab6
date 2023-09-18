@@ -1,5 +1,6 @@
 import java.util.Random;
 //test text
+//mnogo bukaff
 public class Lab6 {
 
     public static void main(String[] args) {
