@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//test text
 public class Lab6 {
 
     public static void main(String[] args) {
